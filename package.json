@@ -1,0 +1,14 @@
+{
+  "name": "xl_cookie",
+  "version": "1.0.7",
+  "description": "cookie 的管理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiaolong",
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
